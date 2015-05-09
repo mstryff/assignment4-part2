@@ -1,0 +1,4 @@
+Start: Fri, 8 May 2015 14:30:00
+End: Fri, 8 May 2015 21:38:55
+Tasks: Implemented Add, Table display, filter, delete
+(Took 45 minutes for dinner, but did not push a commit before taking a break.)
